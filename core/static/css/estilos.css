@@ -1,9 +1,16 @@
 body {
-    background-color: #341256;
+    background-color: #5462e4;
     color: #ffffff;
 }
 
 a {
     text-decoration: none;
     color: #ffffff;
+}
+
+img {
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
 }
